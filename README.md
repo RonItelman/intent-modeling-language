@@ -1,3 +1,3 @@
-## Paper Access
-- [Read Online (Preview)](https://github.com/RonItelman/repo-name/blob/main/paper/intent-modeling-language.pdf)
-- [Download PDF](https://raw.githubusercontent.com/RonItelman/repo-name/main/paper/intent-modeling-language.pdf)
+# Intent Modeling Language Paper
+- 📖 [Read Online (Preview)](https://github.com/RonItelman/intent-modeling-language/blob/main/Intent_Modeling_Language_for_Text_to_SQL_Queries.pdf)
+- 📄 [Download PDF](https://raw.githubusercontent.com/RonItelman/intent-modeling-language/main/Intent_Modeling_Language_for_Text_to_SQL_Queries.pdf)
